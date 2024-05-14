@@ -4,7 +4,7 @@
 ### 👨‍💻 Sobre mí :
 
 
-- 📫 Contacto**estefaniamartinezguzman1@gmail.com**
+- 📫 Contacto:**estefaniamartinezguzman1@gmail.com**
 
 - 🌱 Actualmente estoy aprendiendo desarrollo web  **frontend**
 
