@@ -1,6 +1,12 @@
 <h1 align="center">Hola 👋  soy Estefania Martinez G </h1>
-<h2 align="center">Desarrolladora frontend de Medellin, Colombia</h2>
+<h4 align="center">Desarrolladora de software. Actualmente me ecuentro aprendiendo desarrollo web Frontend, me apasionan las metodologias agiles y el aprendizaje continuo.</h4>
 
+### 👨‍💻 Sobre mi :
+
+
+- 📫 Contacto**estefaniamartinezguzman1@gmail.com**
+
+- 🌱 Actualmente estoy aprendiendo desarrollo web  **frontend**
 
 <div align="left">
     <h3>🔨 Lenguajes y herramientas conocidas:</h3>
