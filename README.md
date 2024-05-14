@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy Estefania Martinez G </h1>
 <h4 align="center">Desarrolladora de software. Actualmente me ecuentro aprendiendo desarrollo web Frontend, me apasionan las metodologias agiles y el aprendizaje continuo.</h4>
 
-### 👨‍💻 Sobre mi :
+### 👨‍💻 Sobre mí :
 
 
 - 📫 Contacto**estefaniamartinezguzman1@gmail.com**
